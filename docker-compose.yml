@@ -1,6 +1,6 @@
 services:
   n8n:
-    image: n8nio/n8n:1.85.4
+    image: n8nio/n8n:latest
     container_name: n8n
     restart: unless-stopped
     ports:
@@ -42,7 +42,7 @@ services:
     image: redis:alpine
     restart: always
     ports:
-      - "6380:6379"
+      - "6379:6379"
     networks:
       - minha_rede
 

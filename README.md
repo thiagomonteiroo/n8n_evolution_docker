@@ -82,4 +82,3 @@ Os seguintes serviços são definidos no `docker-compose.yml`:
 
 - **Volumes:** Os dados do n8n e do Postgres são armazenados em volumes Docker (`n8n_data` e `postgres_data`), para que não sejam perdidos ao reiniciar os contêineres.
 - **Rede:** Todos os contêineres estão na mesma rede Docker (`minha_rede`), o que permite que eles se comuniquem entre si usando seus nomes de serviço (ex: `postgres`, `n8n`).
-- **.env** Todas as credenciais estão configuradas como "postgres", sempre mude elas e configure senhas seguras para sua aplicação, o arquivo foi deixado dessa maneira para rápida instalação, mas deve ser alterado em ambienes de produção, bem como a API_KEY da evolution
