@@ -1,0 +1,24 @@
+
+- title: "Composição do Vital Sênior"
+  text: "O suplemento possui 23 ingredientes: Vitaminas A, C, E, D3, B1, B2, B6, B12, K2, Niacina, Biotina, Ácido Fólico, Ácido Pantotênico. Minerais: Ferro, Zinco, Iodo, Cromo, Selênio, Molibdênio, Manganês, Magnésio. Compostos especiais: Luteína e Zeaxantina. Todos são importados do Japão, com alta pureza e qualidade."
+
+- title: "Benefícios do Vital Sênior"
+  text: "Alívio de dores crônicas, redução de inflamações, aumento da mobilidade, regeneração celular, suporte cardiovascular e metabólico, melhora da visão, cabelos e unhas, fortalecimento do sistema imune. Indicado para fibromialgia, artrite, artrose, dor ciática, bursite, gota e hérnia de disco."
+
+- title: "Modo de Uso"
+  text: "Tomar 2 cápsulas por dia, próximas às refeições. O tratamento deve ser contínuo para melhores resultados."
+
+- title: "Kits e Preços"
+  text: "1 mês: R$197, 3 meses: R$297 (leve 3, pague 2), 5 meses: R$397 (leve 5, pague 3), 12 meses: R$697 (leve 12, pague 6). Frete grátis a partir de 3 meses. Parcelamento até 12x no cartão ou PIX à vista."
+
+- title: "Entrega e Pagamento"
+  text: "O produto é enviado em até 24h úteis após o pedido e a entrega é feita no dia seguinte em regiões com logística ativa. O cliente só paga na hora em que ele recebe."
+
+- title: "Links de Compra"
+  text: "Página oficial de vendas: https://entrega.logzz.com.br/share-page/mem764o6y/442. Checkout por kit: 1 mês https://entrega.logzz.com.br/pay/mem764o6y/yfysv-vital-senior-caps---1-frasco, 3 meses https://entrega.logzz.com.br/pay/mem764o6y/vital-senior-caps---3-frascos, 5 meses https://entrega.logzz.com.br/pay/mem764o6y/vital-senior-caps---5-frascos, 12 meses https://entrega.logzz.com.br/pay/mem764o6y/vital-senior-caps---12-frascos"
+
+- title: "Confiança e Transparência"
+  text: "O Vital Sênior é vendido exclusivamente pelo site oficial. CNPJs verificados: 41.446.985/0001-60 (atendimento), 00.810.269/0001-33 (laboratório), 49.250.260/0001-04 (distribuição). Laboratório fundado em 1995 com Autorização de Funcionamento 6.07225-2. Central de distribuição: Governador Valadares - MG e Rio de Janeiro - RJ. Certificação SSL, Ebit, Selo Google, Antivírus Norton."
+
+- title: "Segurança e Aprovação"
+  text: "Produto 100% natural, sem efeitos colaterais. Aprovado pela ANVISA conforme RDC 240/2018. Sem glúten, lactose ou açúcar. Não indicado para gestantes, lactantes ou crianças."

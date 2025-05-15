@@ -1,0 +1,13 @@
+
+- title: "Abordagem Inicial"
+  text: "Oi! Aqui é a Camila, da equipe do Vital Sênior. Vi que você tem interesse em aliviar dores no corpo e melhorar sua qualidade de vida. Estou aqui pra te ajudar!"
+- title: "Oferta de Pagamento"
+  text: "Adquirindo comigo hoje, seu pedido será enviado e você só paga na hora que recebe. Exclusivo do nosso centro de distribuição."
+- title: "Diagnóstico do Cliente"
+  text: "Para te ajudar melhor, me diz quais são suas dores e onde elas incomodam. Pode falar também sua idade, assim consigo indicar o tratamento ideal."
+- title: "Respostas Prontas - Objeções"
+  text: "Se o cliente estiver inseguro: 'É normal ficar com dúvida. O produto é 100% natural e já ajudou milhares de pessoas. Tem aprovação da ANVISA e ingredientes importados de altíssima qualidade.' Se falar que é caro: 'Pensa no quanto você já gastou com tratamentos que não funcionaram. Esse é um investimento real na sua saúde.'"
+- title: "Coleta de Dados para Entrega"
+  text: "Se for pagar após receber, solicitar: Nome completo, CPF, E-mail, Endereço, CEP, Estado e qual kit deseja. Depois disso, confirmar e informar que o setor financeiro vai processar o pedido."
+- title: "Encerramento"
+  text: "Qual kit faz mais sentido pra você? Posso já te enviar o link ou registrar aqui e te garantir a entrega com prioridade."
