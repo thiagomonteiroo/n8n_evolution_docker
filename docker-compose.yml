@@ -27,7 +27,7 @@ services:
 
   evolution-api:
     container_name: lab_evolution_api
-    image: atendai/evolution-api:v2.2.3
+    image: atendai/evolution-api:latest
     restart: always
     ports:
       - 8080:8080
