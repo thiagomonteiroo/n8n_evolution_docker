@@ -1,6 +1,6 @@
-# Projeto Integrado com n8n, Postgres, Evolution API, Redis, Adminer e Ollama
+# Projeto Integrado com n8n, Postgres, Evolution API, Redis, Adminer
 
-Este projeto orquestra vários serviços utilizando Docker Compose para criar um ambiente de desenvolvimento completo para automação, gerenciamento de dados, comunicação e IA.
+Este projeto orquestra vários serviços utilizando Docker Compose para criar um ambiente de desenvolvimento completo para automação e gerenciamento de dados
 
 ## Serviços
 
